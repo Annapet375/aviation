@@ -1,2 +1,2 @@
 # AnnaPet
-Simple Model of Global Aviation
+Simple model of global aviation
