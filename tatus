@@ -1,0 +1,101 @@
+[33mcommit 467826bacfc47721c7afe6578b24c288f07fae98[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mconfigure-mkdocs-material[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 6b7c265 3f37515
+Author: Annapet375 <annapetros@btinternet.com>
+Date:   Wed Jul 16 10:15:54 2025 +0100
+
+    Merge pull request #4 from Annapet375/aviationtwo
+    
+    Add everything
+
+[33mcommit 3f3751522d199eee7c044e5b963ae8dc4905ac5d[m[33m ([m[1;31morigin/aviationtwo[m[33m)[m
+Author: Anna Petrosyan <ap2522@cam.ac.uk>
+Date:   Wed Jul 16 10:08:34 2025 +0100
+
+    Add everything
+
+[33mcommit 6b7c265fec3b58eee4188493623889936b181e4e[m
+Merge: 66c0b7d a14701b
+Author: Annapet375 <annapetros@btinternet.com>
+Date:   Tue Jul 15 16:49:32 2025 +0100
+
+    Merge pull request #3 from Annapet375/improve-dev-docs
+    
+    Improve dev docs
+
+[33mcommit a14701b64c22e241babe28fecea5efbdec437601[m[33m ([m[1;31morigin/improve-dev-docs[m[33m)[m
+Author: Anna Petrosyan <ap2522@cam.ac.uk>
+Date:   Tue Jul 15 16:05:29 2025 +0100
+
+    modified
+
+[33mcommit b140c056e807ac42a516ad45b5ca9babcbe9955a[m
+Author: Anna Petrosyan <ap2522@cam.ac.uk>
+Date:   Tue Jul 15 15:55:58 2025 +0100
+
+    changed readme.md to go with uv
+
+[33mcommit 1b8212680e5149912c861b841d0dce782b7a0e39[m
+Author: Anna Petrosyan <ap2522@cam.ac.uk>
+Date:   Tue Jul 15 15:45:58 2025 +0100
+
+    switched from a requirements.txt to uv.lock and pyproject.toml
+
+[33mcommit 66c0b7dde389b3196c3744d0d3d3873cf341547f[m
+Merge: ba3b7dd e4b8388
+Author: Annapet375 <annapetros@btinternet.com>
+Date:   Tue Jul 15 15:11:52 2025 +0100
+
+    Merge pull request #2 from Annapet375/configure-mkdocs
+    
+    Configure mkdocs
+
+[33mcommit e4b83888a10adc58ea54766d94b58625ebcb337f[m[33m ([m[1;31morigin/configure-mkdocs[m[33m)[m
+Author: Anna Petrosyan <ap2522@cam.ac.uk>
+Date:   Tue Jul 15 14:11:46 2025 +0100
+
+    Moved to Mkdocs
+
+[33mcommit d7d5f4b828b5a77b8b01b61ee8286dd11f899288[m
+Author: Anna Petrosyan <ap2522@cam.ac.uk>
+Date:   Tue Jul 15 14:00:23 2025 +0100
+
+    added something
+
+[33mcommit b6286b469256c3fa68604a7de03f6da3140836be[m
+Author: Anna Petrosyan <ap2522@cam.ac.uk>
+Date:   Tue Jul 15 13:46:32 2025 +0100
+
+    added gitignore
+
+[33mcommit ba3b7dd23a07d745749be4b979d0bf40e02657e5[m
+Merge: 715c17f 5983fdc
+Author: Annapet375 <annapetros@btinternet.com>
+Date:   Tue Jul 15 12:19:13 2025 +0100
+
+    Merge pull request #1 from Annapet375/add-model-documentation
+    
+    added modelling docs to README.md
+
+[33mcommit 5983fdcae34f8eef8d5ccc546a1cb25c9373faa4[m[33m ([m[1;31morigin/add-model-documentation[m[33m)[m
+Author: Anna Petrosyan <ap2522@cam.ac.uk>
+Date:   Tue Jul 15 12:18:49 2025 +0100
+
+    fixes Kilian's comment
+
+[33mcommit eea31529e47d23d2c960efa0172d9d367df26caa[m
+Author: Anna Petrosyan <ap2522@cam.ac.uk>
+Date:   Tue Jul 15 12:00:57 2025 +0100
+
+    added modeling docs to README.md
+
+[33mcommit 715c17f36a7c5f808ee11dc4dd3d472b0fe0e133[m
+Author: Anna Petrosyan <ap2522@cam.ac.uk>
+Date:   Tue Jul 15 09:54:50 2025 +0100
+
+    Try 2
+
+[33mcommit ed008184bcca70199cf28ca8079b68126901cec1[m
+Author: Anna Petrosyan <ap2522@cam.ac.uk>
+Date:   Tue Jul 15 09:51:37 2025 +0100
+
+    first commit
